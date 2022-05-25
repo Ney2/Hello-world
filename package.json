@@ -1,0 +1,20 @@
+{
+  "name": "hello-world-final",
+  "version": "1.0.0",
+  "description": "Set up a \"Hello Microverse\" project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ney2/Hello-world-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ney2/Hello-world-final/issues"
+  },
+  "homepage": "https://github.com/Ney2/Hello-world-final#readme"
+}
