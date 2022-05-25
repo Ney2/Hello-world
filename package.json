@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ney2/Hello-world-final/issues"
   },
-  "homepage": "https://github.com/Ney2/Hello-world-final#readme"
+  "homepage": "https://github.com/Ney2/Hello-world-final#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
 }
